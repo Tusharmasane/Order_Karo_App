@@ -50,7 +50,7 @@
 
 | Register | Login |
 |:---:|:---:|
-| <img src="screenshots/register.png" width="260" alt="Register screen"/> | <img src="screenshots/login.png" width="260" alt="Login screen"/> |
+| <img src="assets/images/Screenshot 2026-11-25 at 11.17.14 PM.png" width="260" alt="Register screen"/> | <img src="screenshots/login.png" width="260" alt="Login screen"/> |
 | **Create your account** with name, phone & optional email | **Quick login** using your phone number |
 
 | Home | Cart |
