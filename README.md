@@ -55,7 +55,7 @@
 
 | Home | Cart |
 |:---:|:---:|
-| <img src="screenshots/home.png" width="260" alt="Home screen"/> | <img src="screenshots/cart.png" width="260" alt="Cart screen"/> |
+| <img src="assets/images/Screenshot 2026-11-25 at 11.18.29 PM.png" width="260" alt="Home screen"/> | <img src="screenshots/cart.png" width="260" alt="Cart screen"/> |
 | **Browse categories** and nearby restaurants | **Review your order** and checkout |
 
 ---
